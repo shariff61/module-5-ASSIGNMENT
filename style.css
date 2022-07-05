@@ -130,6 +130,9 @@ footer {
   background-color: #868e96;
   padding: 5rem;
 }
+footer h2 {
+  color: rgb(221, 59, 92);
+}
 
 .half-width {
   width: 50%;
